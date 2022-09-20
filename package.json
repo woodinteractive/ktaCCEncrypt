@@ -1,0 +1,15 @@
+{
+  "name": "card-encription",
+  "version": "1.0.0",
+  "description": "Tool for creating an encrypted XML for credit cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-navigator": "^1.0.1",
+    "pidcrypt": "^0.0.33"
+  }
+}
