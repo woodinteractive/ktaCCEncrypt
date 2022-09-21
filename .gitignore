@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 node_modules
 .DS_Store
+=======
+.DS_Store
+node_modules
+>>>>>>> 7d62679 (Create .gitignore)
