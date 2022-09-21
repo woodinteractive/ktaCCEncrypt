@@ -130,4 +130,4 @@ const BuildXML = (PAN, ExpDate, CVV) => {
 	}
 }
 
-exports.BuildXML = BuildXML
+module.exports = BuildXML
