@@ -1,10 +1,14 @@
 {
-  "name": "card-encription",
+  "name": "ktaCCEncrypt",
   "version": "1.0.0",
   "description": "Tool for creating an encrypted XML for credit cards",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/woodinteractive/ktaCCEncrypt"
   },
   "author": "",
   "license": "ISC",
